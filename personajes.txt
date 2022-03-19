@@ -1,1 +1,3 @@
+version 2 - personajes
+
 version 1 - personajes
